@@ -1,47 +1,17 @@
-# Project 6 - *BeReal*
+# BeReal
 
-Submitted by: **Jaime Xu**
+**BeReal** is an app that introduces taking pictures and viewing other users' pictures
 
-**BeReal** is an app that introduces taking pictures and seeing others' too
+## Features
 
-Time spent: **3** hours spent in total
-
-## Required Features
-
-The following **required** functionality is completed:
-
-- [X] User can launch camera to take photo instead of photo library
-- [X] User session persists when application is closed and relaunched
-- [X] Users are able to log out and return to sign in page
-- [X] Users are NOT able to see other photos until they upload their own	
- 
-The following **optional** features are implemented:
-
-- [ ] User receive notifcation when it is time to post
-- [ ] Users can make comments and view comments in posts	
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
-
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-<img src='https://i.imgur.com/KEcBuNI.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
-Gif created with mac screen record
-
-## Notes
-
-Describe any challenges encountered while building the app.
-
-The camera and ParseSwift do not work well with the VMWare simulator
+- User can launch camera to take photo instead of photo library
+- User session persists when application is closed and relaunched
+- Users are able to log out and return to sign in page
+- Users are NOT able to see other photos until they upload their own	
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Jaime xu]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
